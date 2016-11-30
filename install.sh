@@ -1,2 +1,2 @@
 #! /bin/bash
-ln -s "$(realpath .tmux_conf)" ~/
+ln -s ${PWD}/.tmux.conf  ~/
